@@ -65,7 +65,7 @@ class Cli {
         },
       ])
       .then((answers) => {
-        if (answers.vehicleType === 'Car') {
+        if (answers.vehicleType === 'Car', 'Truck', 'Motorbike') {
           // create a car
           this.createCar();
         }
