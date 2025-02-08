@@ -60,8 +60,7 @@ class Cli {
           type: 'list',
           name: 'vehicleType',
           message: 'Select a vehicle type',
-          // TODO: Update the choices array to include Truck and Motorbike
-          choices: this.vehicles.map((vehicle) => {
+          choices: ['Car', 'Truck', 'Motorbike'],
         },
       ])
       .then((answers) => {
