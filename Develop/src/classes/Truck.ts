@@ -77,7 +77,7 @@ tow(vehicle: Truck | Motorbike | Car): void {
 }
 override printDetails(): void {
   super.printDetails();
-  console.log(`VIN: ${this.VIN}`);
+  console.log(`VIN: ${this.vin}`);
   console.log(`Make: ${this.make}`);
   console.log(`Model: ${this.model}`);
   console.log(`Year: ${this.year}`);
