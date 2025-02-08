@@ -25,7 +25,7 @@ import AbleToTow from '../interfaces/AbleToTow.js';
 
 class Truck extends Vehicle implements AbleToTow {
 
-  VIN!: string;
+  vin!:string;
   make!: string;
   model!: string;
   year!: number;
@@ -47,7 +47,7 @@ class Truck extends Vehicle implements AbleToTow {
     towingCapacity: number
 ) {
   super();
-  this.VIN = vin;
+  this.vin;
   this.color = color;
   this.make = make;
   this.model = model;
