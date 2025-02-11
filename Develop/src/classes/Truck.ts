@@ -47,7 +47,7 @@ class Truck extends Vehicle implements AbleToTow {
     towingCapacity: number
 ) {
   super();
-  this.vin;
+  this.vin = vin;
   this.color = color;
   this.make = make;
   this.model = model;
