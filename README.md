@@ -15,11 +15,11 @@
 
 ## Installation
 
-    In order to use this application you will need to download Node.js. Clone my repository and run Node index.js to run this application
+    In order to use this application you will need to download Node.js. Clone my repository and run npm run start to run this application
 
 ## Usage
 
-    Download repository, use node index.js to run application. 
+    Download repository, run npm run start to run application. 
 
 ## Contributors
 
