@@ -33,7 +33,7 @@ vehicles.push(truck1);
 vehicles.push(car1);
 // TODO: uncomment once motorbikes are implemented
 vehicles.push(motorbike1);
-console.log(vehicles[0].constructor.name);
+//console.log(vehicles[0].constructor.name);
 
 // create a new instance of the Cli class
 const cli = new Cli(vehicles);
