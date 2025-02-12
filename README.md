@@ -4,7 +4,7 @@
 
 ## Description
 
-    MileHighCars is an application that allows you to build a vehicle or choose a pre existing vehicle. You will be able to operate the vehicle with a set of actions and even popping a wheelie with your motorbike! 
+    MileHighCars is an application that allows you to build a vehicle or choose a pre existing vehicle. You will be able to operate the vehicle with a set of actions and even popping a wheelie with your motorbike and even towing a vehicle
 
 ## Table of Contents 
 
